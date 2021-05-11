@@ -27,5 +27,5 @@ Lofi Mood, a CLI App allowing users to create Spotify playlists based on their m
 
 **Authors**
 
-Cole Tomashot
+James (Cole) Tomashot
 Nicole Uyigue-Slvek
